@@ -1,0 +1,1 @@
+{"name":"byteingbit-research","private":true,"scripts":{"dev":"npx quartz build --serve","build":"npx quartz build"}}
